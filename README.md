@@ -1,0 +1,1 @@
+# -Actividad-9-Regresi-n-L-gistica-Multinomial-Individual
